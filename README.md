@@ -1,4 +1,5 @@
-🎯 Objective
+🎯 Objective:
+
 The objective of this task is to demonstrate proficiency in basic SQL data retrieval operations. This includes extracting data using SELECT queries, applying filters with WHERE, sorting results with ORDER BY, limiting output with LIMIT, and using conditional operators like LIKE, AND, OR, and BETWEEN.
 
 📁 File Included
